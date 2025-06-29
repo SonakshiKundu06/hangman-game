@@ -79,12 +79,6 @@ You can modify this list to add your own words in `main.py`.
 
 ---
 
-## 📷 Screenshots
-
-> (You can add a terminal screenshot here)
-
----
-
 ## 🛠️ Future Improvements
 
 - Add real-time scoring system
